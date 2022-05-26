@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-beans" />
+        <module name="2HWSprinsTask1" />
+        <module name="2HW11" />
       </profile>
     </annotationProcessing>
   </component>
